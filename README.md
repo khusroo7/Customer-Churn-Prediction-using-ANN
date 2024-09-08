@@ -1,4 +1,4 @@
-1) The "Customer Churn Analysis" project aims to understand and predict customer churn using a dataset containing demographic, service usage, and account information. 
+1)The "Customer Churn Analysis" project aims to understand and predict customer churn using a dataset containing demographic, service usage, and account information. 
 <br>
 2) The analysis includes data cleaning, exploratory data visualization, and potentially predictive modeling (depending on the stage of the project).
 <br>
